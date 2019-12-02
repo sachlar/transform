@@ -4,6 +4,7 @@
     background-color: #bada55;
     transition-property: width, background-color;
     transition-duration: 2s;
+    transition-timing-function: ease-in-out;
 }
 
 .box:hover {
